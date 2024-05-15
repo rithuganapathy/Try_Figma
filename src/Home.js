@@ -40,7 +40,7 @@ function Home() {
                 <option value="3">3 passengers</option>
                 <option value="4">4 passengers</option>
                 </select>
-            </div>
+            </div>--
             <div className='search'>
               <button>Search Your Flight</button>
             </div>
